@@ -1,5 +1,5 @@
 languageCode: "en-us"
-baseUrl: ""
+baseUrl: "milezoom.github.io"
 title: "Milezoom's Blog"
 theme: "anubis"
 paginate: 10
